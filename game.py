@@ -18,7 +18,7 @@ from cornSnake import CornSnake
 SNAKES = [
     BolivianAnaconda,
     CongoWaterCobra,
-    CornSnake
+    CornSnake,
 ]
 
 # Od tu naprej se ni treba nicesar dotikati
